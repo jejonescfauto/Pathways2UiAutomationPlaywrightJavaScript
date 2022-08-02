@@ -7,7 +7,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6e086e79-61e7-458a-9aca-87e64dcba3ae" name="Changes" comment="First Commit" />
+    <list default="true" id="6e086e79-61e7-458a-9aca-87e64dcba3ae" name="Changes" comment="First Commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -88,6 +90,9 @@
       <workItem from="1659449543435" duration="504000" />
       <workItem from="1659450089574" duration="828000" />
       <workItem from="1659450961580" duration="5900000" />
+      <workItem from="1659460115855" duration="586000" />
+      <workItem from="1659460711368" duration="242000" />
+      <workItem from="1659461213938" duration="544000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit">
       <created>1659458612583</created>
@@ -114,7 +119,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
